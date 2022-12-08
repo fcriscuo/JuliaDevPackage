@@ -1,0 +1,4 @@
+name = "JuliaDevPackage"
+uuid = "60cfa035-9d76-412c-a3c7-deefc9d27c44"
+authors = ["fcriscuo <genomicdatasci@gmail.com>"]
+version = "0.1.0"
